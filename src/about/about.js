@@ -11,7 +11,7 @@ function aboutPage() {
         aboutConatiner.id = "about-container"
         selfImg.src = self;
         selfImg.id = "self";
-        aboutMe.innerHTML = "Chef, or privatly known as Slop Star has been making culinary creations<br> since he was a little tiny baby."
+        aboutMe.innerHTML = "Chef, or privately known as Slop Star has been making culinary creations<br> since he was a little tiny baby."
 
         contentParent.appendChild(aboutConatiner);
         aboutConatiner.appendChild(selfImg);
